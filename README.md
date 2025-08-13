@@ -17,5 +17,5 @@ I love tackling complex problems, designing scalable systems, and finding elegan
 - Climate and environmental data analysis
 
 ## 📫 Let’s Connect
-- [LinkedIn](www.linkedin.com/in/yandell-sarah)
+- [LinkedIn](https://www.linkedin.com/in/yandell-sarah)
 - [Email](mailto:yandellsarah@gmail.com)
