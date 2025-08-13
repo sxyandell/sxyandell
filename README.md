@@ -13,7 +13,3 @@ I love tackling complex problems, and finding elegant solutions that bridge rese
 - Scientific data infrastructure & visualization
 - Optimization algorithms
 - Climate and environmental data analysis
-
-## 📫 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/yandell-sarah)
-- [Email](mailto:yandellsarah@gmail.com)
