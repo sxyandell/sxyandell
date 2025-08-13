@@ -9,7 +9,7 @@ I love tackling complex problems, and finding elegant solutions that bridge rese
 - Building a **DataCube** to support climate resilience data analytics.
 
 ## 💡 Interests
-- Applied machine learning, natural language processing, and Artificial Intelligence
+- Applied machine learning, natural language processing, and artificial intelligence
 - Scientific data infrastructure & visualization
 - Optimization algorithms
 - Climate and environmental data analysis
