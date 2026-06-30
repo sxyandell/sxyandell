@@ -8,11 +8,12 @@ I recently graduated with a B.S. in Computer Science and Mathematics from Harvey
 I am always excited to connect with others who share an interest in data science, software development, research, and technology-driven innovation!
 
 ##  Current Projects
-- Leading the development of a retrieval-augmented generation (RAG) chatbot for mouse microbiome research.
-- Building a DataCube to support climate resilience data analytics.
+- Collaborating with biochemistry and medicine researchers at UW Madison Wisconsin to analyze complex biological datasets and developing data visualization applications and web tools to improve research data accessibility.
 
 ## Interests
-- Applied machine learning, natural language processing, and artificial intelligence
-- Scientific data infrastructure & visualization
-- Optimization algorithms
-- Climate and environmental data analysis
+- Data science and scientific computing
+- Bioinformatics and computational biology
+- Data visualization and interactive web applications
+- Machine learning and artificial intelligence
+- Software engineering and full-stack development
+- Statistical modeling and data analysis
