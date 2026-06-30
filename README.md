@@ -15,5 +15,6 @@ I am always excited to connect with others who share an interest in data science
 - Bioinformatics and computational biology
 - Data visualization and interactive web applications
 - Machine learning and artificial intelligence
+- Algorithm design and optimization
 - Software engineering and full-stack development
 - Statistical modeling and data analysis
