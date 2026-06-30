@@ -1,8 +1,11 @@
 # Hi! I’m Sarah Yandell 
 
 ## About Me
-I’m studying Computer Science & Mathematics with a concentration in Economics at Harvey Mudd College.  
-I love tackling complex problems, and finding elegant solutions that bridge research and engineering and I’m passionate about exploring the intersections of AI, data science, and optimization — and transforming ideas into real, working software.
+I am a Data Scientist at the University of Wisconsin–Madison, where I collaborate with researchers in biochemistry and medicine to analyze biological datasets and develop data visualization applications and web tools that make research more accessible.
+
+I recently graduated with a B.S. in Computer Science and Mathematics from Harvey Mudd College, with a concentration in Economics. My experience includes software engineering, data science, and mathematical modeling, and I enjoy applying these skills to solve real-world problems. I've been involved in building interactive data applications to developing AI-powered software and analytical tools.
+
+I am always excited to connect with others who share an interest in data science, software development, research, and technology-driven innovation!
 
 ##  Current Projects
 - Leading the development of a retrieval-augmented generation (RAG) chatbot for mouse microbiome research.
